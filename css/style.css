@@ -1,0 +1,23 @@
+#parent {
+	width: 300px;
+	height: 300px;
+	border: 1px solid red;
+}
+#child {
+	height: 200px;
+	border: 1px solid #008040;
+	margin: 40px;
+}
+h3{
+	text-align: left ;
+	text-indent: 10px;
+}
+.text{
+text-align: center;
+}
+.gr{
+	background: rgb(0, 128, 41);
+}
+.or{
+	background: orange;
+}
